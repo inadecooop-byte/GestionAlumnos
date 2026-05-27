@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Programacion.MEDITERRANEO08\\Desktop\\02 CURSO C#\\EJERCICIOS FORMULARIOS\\GestionAlumnos\\GestionAlumnos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEFF469-2767-7261-63B9-7745AD5D242A}|GestionAlumnos.csproj|c:\\users\\programacion.mediterraneo08\\desktop\\02 curso c#\\ejercicios formularios\\gestionalumnos\\gestionalumnos\\vistas\\alumnosaltas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BEFF469-2767-7261-63B9-7745AD5D242A}|GestionAlumnos.csproj|solutionrelative:vistas\\alumnosaltas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BEFF469-2767-7261-63B9-7745AD5D242A}|GestionAlumnos.csproj|C:\\Users\\Programacion.MEDITERRANEO08\\Desktop\\02 CURSO C#\\EJERCICIOS FORMULARIOS\\GestionAlumnos\\GestionAlumnos\\vistas\\alumnosaltas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3BEFF469-2767-7261-63B9-7745AD5D242A}|GestionAlumnos.csproj|solutionrelative:vistas\\alumnosaltas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnosAltas.cs",
+              "DocumentMoniker": "C:\\Users\\Programacion.MEDITERRANEO08\\Desktop\\02 CURSO C#\\EJERCICIOS FORMULARIOS\\GestionAlumnos\\GestionAlumnos\\VISTAS\\AlumnosAltas.cs",
+              "RelativeDocumentMoniker": "VISTAS\\AlumnosAltas.cs",
+              "ToolTip": "C:\\Users\\Programacion.MEDITERRANEO08\\Desktop\\02 CURSO C#\\EJERCICIOS FORMULARIOS\\GestionAlumnos\\GestionAlumnos\\VISTAS\\AlumnosAltas.cs",
+              "RelativeToolTip": "VISTAS\\AlumnosAltas.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAIAwwD0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:36:00.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlumnosAltas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Programacion.MEDITERRANEO08\\Desktop\\02 CURSO C#\\EJERCICIOS FORMULARIOS\\GestionAlumnos\\GestionAlumnos\\VISTAS\\AlumnosAltas.cs",
+              "RelativeDocumentMoniker": "VISTAS\\AlumnosAltas.cs",
+              "ToolTip": "C:\\Users\\Programacion.MEDITERRANEO08\\Desktop\\02 CURSO C#\\EJERCICIOS FORMULARIOS\\GestionAlumnos\\GestionAlumnos\\VISTAS\\AlumnosAltas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "VISTAS\\AlumnosAltas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-19T10:24:10.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
